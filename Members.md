@@ -1,12 +1,4 @@
-# Add yoursself in the following format
+Add yourself in the following format
 
---------------------------------------
--                                    -
-- Name      : Vishnu Bhagirathan     -
-- GitHub ID : Viz32                  -
--                                    -
---------------------------------------
-
-
-
-
+Name      : Vishnu Bhagirathan
+GitHub ID : Viz32
