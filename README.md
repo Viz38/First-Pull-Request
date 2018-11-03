@@ -1,9 +1,10 @@
-#WELCOME TO GITHUB
-##This project to help you make a pull request (PR)
+# WELCOME TO GITHUB!! 
+
+## This project to help you make a pull request (PR)
 
 ## Instructions-
 
-If you don't have git on your machine, [install it]( https://help.github.com/articles/set-up-git/).
+If you don't have git on your machine, [install it](https://git-scm.com/downloads).
 
 ### Step 1
 
@@ -66,4 +67,4 @@ Now submit the pull request.
 
 Soon I'll be merging all your changes into the master branch of this project. You will get a notification email once the changes have been merged.
 
-## Congrats you just made your PR
+## Congrats you just created a PR
