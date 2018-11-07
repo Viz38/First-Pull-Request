@@ -18,13 +18,15 @@ This will create a copy of this repository in your account.
 Now clone the forked repo to your machine. Go to your GitHub account, open the forked repo, click on the clone button and then click the *copy to clipboard* icon.
 ![clone](https://raw.githubusercontent.com/Viz38/First-Pull-Request/master/Assets/Clone.bmp)
 
+### Step 3
+
 Open a terminal/git bash and run the following git command:
 
 ```
 git clone "https://github.com/Viz38/First-Pull-Request.git"
 ```
 
-### Step 3
+### Step 4
 
 Change to the repository directory on your computer (if you are not already there):
 
@@ -41,7 +43,7 @@ For example:
 git checkout newbranch
 ```
 
-### Step 4
+### Step 5
 
 Now open `Members.md` file in a text editor, Add yourself as given.
 
@@ -55,7 +57,7 @@ Now commit those changes using the `git commit` command:
 git commit -m "your commit message"
 ```
 
-### Step 5
+### Step 6
 
 Push your changes using the command `git push`:
 ```
@@ -63,12 +65,15 @@ git push origin <add-your-branch-name>
 ```
 replacing `<add-your-branch-name>` with the name of the branch you created earlier.
 
-### Step 6
+### Step 7
 
 If you go to your repository on GitHub, you'll see a  `Compare & pull request` button. Click on that button.
 ![C&P](https://raw.githubusercontent.com/Viz38/First-Pull-Request/master/Assets/Pull.bmp)
 
+### Step 8
+
 Now submit the pull request.
+![CPR](https://raw.githubusercontent.com/Viz38/First-Pull-Request/master/Assets/Create PR.bmp)
 
 Soon I'll be merging all your changes into the master branch of this project. You will get a notification email once the changes have been merged.
 
