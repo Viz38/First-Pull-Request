@@ -3,7 +3,6 @@
 ## This project to help you make a pull request (PR)
 
 ## Instructions-
-(adding pictures soon)
 
 If you don't have git on your machine, [install it](https://git-scm.com/downloads).
 
