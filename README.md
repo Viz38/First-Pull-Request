@@ -43,11 +43,13 @@ git checkout newbranch
 
 ### Step 4
 
-Now open `Members.md` file in a text editor, save the file.
+Now open `Members.md` file in a text editor, Add yourself as given.
 
 ```
 git vi Contributors.md
 ```
+Save and exit by pressing [ESC] key and type in :wq
+
 Now commit those changes using the `git commit` command:
 ```
 git commit -m "your commit message"
@@ -64,6 +66,7 @@ replacing `<add-your-branch-name>` with the name of the branch you created earli
 ### Step 6
 
 If you go to your repository on GitHub, you'll see a  `Compare & pull request` button. Click on that button.
+![C&P](https://raw.githubusercontent.com/Viz38/First-Pull-Request/master/Assets/Pull.bmp)
 
 Now submit the pull request.
 
