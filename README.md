@@ -46,7 +46,7 @@ git checkout newbranch
 Now open `Members.md` file in a text editor, save the file.
 
 ```
-git add Contributors.md
+git vi Contributors.md
 ```
 Now commit those changes using the `git commit` command:
 ```
