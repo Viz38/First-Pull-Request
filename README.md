@@ -17,6 +17,7 @@ This will create a copy of this repository in your account.
 
 
 Now clone the forked repo to your machine. Go to your GitHub account, open the forked repo, click on the clone button and then click the *copy to clipboard* icon.
+![clone](https://raw.githubusercontent.com/Viz38/First-Pull-Request/master/Assets/Clone.bmp)
 
 Open a terminal/git bash and run the following git command:
 
