@@ -73,7 +73,7 @@ If you go to your repository on GitHub, you'll see a  `Compare & pull request` b
 ### Step 8
 
 Now submit the pull request.
-![CPR](https://raw.githubusercontent.com/Viz38/First-Pull-Request/master/Assets/Create PR.bmp)
+![CPR](https://raw.githubusercontent.com/Viz38/First-Pull-Request/master/Assets/Create%20PR.bmp)
 
 Soon I'll be merging all your changes into the master branch of this project. You will get a notification email once the changes have been merged.
 
