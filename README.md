@@ -6,6 +6,15 @@
 
 If you don't have git on your machine, [install it](https://git-scm.com/downloads).
 
+### Optional Step
+
+Configure Git Bash
+```
+ git config --global user.email "<your email>"
+ git config --global user.user "<github username>"
+```
+Use you email and username as given on your github account
+
 ### Step 1
 
 Fork this repository by clicking on the fork button on the top of this page.
