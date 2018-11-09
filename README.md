@@ -33,7 +33,7 @@ Change to the repository directory on your computer (if you are not already ther
 ```
 cd first-contributions
 ```
-Now create a branch using the `git branch` command and change to new branch using 'git checkout' command:
+Now create a branch using the `git branch` command and change to new branch using `git checkout` command:
 ```
 git branch branch-name 
 git checkout branch-name
@@ -52,7 +52,7 @@ Now open `Members.md` file in a text editor, Add yourself as given.
 ```
 git vi Contributors.md
 ```
-Save and exit by pressing [ESC] key and type in :wq
+Save and exit by pressing [ESC] key and type in `:wq`
 
 Now commit those changes using the `git commit` command:
 ```
