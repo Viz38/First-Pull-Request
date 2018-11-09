@@ -35,11 +35,13 @@ cd first-contributions
 ```
 Now create a branch using the `git checkout` command:
 ```
-git checkout branch-name 
+git branch branch-name 
+git checkout branch-name
 ```
 
 For example:
 ```
+git branch newbranch
 git checkout newbranch
 ```
 
