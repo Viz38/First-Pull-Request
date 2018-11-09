@@ -33,7 +33,7 @@ Change to the repository directory on your computer (if you are not already ther
 ```
 cd first-contributions
 ```
-Now create a branch using the `git checkout` command:
+Now create a branch using the `git branch` command and change to new branch using 'git checkout' command:
 ```
 git branch branch-name 
 git checkout branch-name
