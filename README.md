@@ -17,7 +17,7 @@ Use you email and username as given on your github account
 
 ### Step 1
 
-Fork this repository by clicking on the fork button on the top of this page.
+Fork [THIS](https://github.com/Viz38/First-Pull-Request) repository by clicking on the fork button on the top of this page.
 This will create a copy of this repository in your account.
 ![fork](https://raw.githubusercontent.com/Viz38/First-Pull-Request/master/Assets/Fork.bmp)
 
