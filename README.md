@@ -40,7 +40,7 @@ git clone "https://github.com/Viz38/First-Pull-Request.git"
 Change to the repository directory on your computer (if you are not already there):
 
 ```
-cd first-contributions
+cd First-Pull-Request
 ```
 Now create a branch using the `git branch` command and change to new branch using `git checkout` command:
 ```
@@ -59,7 +59,7 @@ git checkout newbranch
 Now open `Members.md` file in a text editor, Add yourself as given.
 
 ```
-vi Contributors.md
+vi Members.md
 ```
 Save and exit by pressing [ESC] key and type in `:wq`
 
