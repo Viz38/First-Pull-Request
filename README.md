@@ -1,6 +1,6 @@
 # WELCOME TO GITHUB!! 
 
-## This project to help you make a pull request (PR)
+## This project is to help you make a pull request (PR)
 
 ## Instructions-
 
@@ -13,7 +13,7 @@ Configure Git Bash
  git config --global user.email "<your email>"
  git config --global user.user "<github username>"
 ```
-Use you email and username as given on your github account
+Use your email and username as given on your github account
 
 ### Step 1
 
@@ -59,10 +59,14 @@ git checkout newbranch
 Now open `Members.md` file in a text editor, Add yourself as given.
 
 ```
-git vi Contributors.md
+vi Contributors.md
 ```
 Save and exit by pressing [ESC] key and type in `:wq`
 
+Stage the changes made to the file using `git add` command :
+```
+git add Members.md
+```
 Now commit those changes using the `git commit` command:
 ```
 git commit -m "your commit message"
