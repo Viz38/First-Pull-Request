@@ -59,14 +59,10 @@ git checkout newbranch
 Now open `Members.md` file in a text editor, Add yourself as given.
 
 ```
-vi Members.md
+vi Contributors.md
 ```
 Save and exit by pressing [ESC] key and type in `:wq`
 
-Stage the changes made to the file using `git add` command :
-```
-git add Members.md
-```
 Now commit those changes using the `git commit` command:
 ```
 git commit -m "your commit message"
