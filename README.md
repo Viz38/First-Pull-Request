@@ -59,11 +59,7 @@ git checkout newbranch
 Now open `Members.md` file in a text editor, Add yourself as given.
 
 ```
-<<<<<<< HEAD
-vi Memberrs.md
-=======
-vi Contributors.md
->>>>>>> 1864623f6dd1651c6d82e9056d1d27d62c1decc9
+vi Members.md
 ```
 Save and exit by pressing [ESC] key and type in `:wq`
 
@@ -71,7 +67,7 @@ Save and exit by pressing [ESC] key and type in `:wq`
 
 Add the changes you've made to git by hitting the following command
 ```
-git add Memvers.md
+git add Members.md
 ```
 
 Now commit those changes using the `git commit` command:
