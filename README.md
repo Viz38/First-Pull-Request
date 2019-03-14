@@ -1,6 +1,6 @@
 # WELCOME TO GITHUB!! 
 
-## This project to help you make a pull request (PR)
+## This project is to help you make a pull request (PR)
 
 ## Instructions-
 
@@ -13,7 +13,7 @@ Configure Git Bash
  git config --global user.email "<your email>"
  git config --global user.user "<github username>"
 ```
-Use you email and username as given on your github account
+Use your email and username as given on your github account
 
 ### Step 1
 
@@ -40,7 +40,7 @@ git clone "https://github.com/Viz38/First-Pull-Request.git"
 Change to the repository directory on your computer (if you are not already there):
 
 ```
-cd first-contributions
+cd First-Pull-Request
 ```
 Now create a branch using the `git branch` command and change to new branch using `git checkout` command:
 ```
@@ -59,7 +59,11 @@ git checkout newbranch
 Now open `Members.md` file in a text editor, Add yourself as given.
 
 ```
+<<<<<<< HEAD
 vi Memberrs.md
+=======
+vi Contributors.md
+>>>>>>> 1864623f6dd1651c6d82e9056d1d27d62c1decc9
 ```
 Save and exit by pressing [ESC] key and type in `:wq`
 
