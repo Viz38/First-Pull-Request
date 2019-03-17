@@ -1,5 +1,17 @@
 # WELCOME TO GITHUB!! 
 
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![first-timers-only](https://img.shields.io/badge/first--timers--only-friendly-blue.svg?style=flat-square)](http://bit.ly/First-Pull-Request) 
+
+## Why contribute to free/open source?
+When you contribute to Open Source, you are taking part in the collaborative effort of a vast community of passionate developers and contributors! Free Source software allows you to see, use, and more importantly modify its source code. Contributing to Free Source is a great way to develop a deeper understanding of software, and the best part is being able to learn and teach alongside a community of contributors.
+
+## How to contribute
+Follow this step-by-step guide to make your first open source contribution. The steps you will perform in this guide is a somewhat standard workflow that you will encounter in most projects: Fork -> Clone -> Install dependencies -> Make your changes -> Run tests -> Commit -> PR
+
+
+
 ## This project is to help you make a pull request (PR) in 10 easy steps
 
 ## Instructions-
@@ -96,6 +108,66 @@ Now submit the pull request.
 
 Soon I'll be merging all your changes into the master branch of this project. You will get a notification email once the changes have been merged.
 
-## [Click Here](https://github.com/glugpace) for more projects. 🌟🌟 
+## GLUG PACE [Click Here](https://github.com/glugpace) for more projects. 🌟🌟 
 
-## Congrats you just created a PR
+## Congrats you just created a PR 🎉🎉🎉
+
+
+
+
+## What's next?
+
+🎉 Congratulations 🎉
+
+You just took your first step as an open source contributor. Your pull request will be reviewed as soon as possible.If you feel like it, please give this repository a star ⭐.
+
+If you want something more to work on, look at the [Further Reading](#Further-Reading) section for more great learning resources.
+
+
+
+
+
+## FAQ
+
+### Resolve Merge Conflicts ###
+
+Once changes have been committed and staged it's time to manage conflicts by running:
+
+git pull upstream master
+Head back to your favourite code editor and review any conflicts. Generally current changes will be highlighted in one color and incoming changes will be highlighted in a different color. Accept the current or incoming changes.
+
+Commit changes again as outlined in step #9 and #10 above or by running:
+
+```
+git add -A
+```
+```
+git commit -m "Your message"
+```
+```
+git push origin <your-new-branch-name>
+```
+
+
+
+
+
+## Further Reading
+
+- [GitHub Open Source Guide](https://opensource.guide/)
+- [Resource To learn Git](https://try.github.io/)
+- [Git Tutorial Part 1: What is Version Control?](https://www.youtube.com/watch?v=9GKpbI1siow&feature=youtu.be)
+- [Git Tutorial Part 2: Vocab (Repo, Staging, Commit, Push, Pull)](https://www.youtube.com/watch?v=n-p1RUmdl9M)
+- [Git Tutorial Part 3: Installation, Command-line & Clone](https://www.youtube.com/watch?v=UFEby2zo-9E)
+- [Git Tutorial Part 4: GitHub (Pushing to a Server)](https://www.youtube.com/watch?v=ol_UCWox9kc)
+- [Git & GitHub Crash Course For Beginners](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
+- [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/index.html)
+- [Friendly Beginner Repos](https://github.com/MunGell/awesome-for-beginners)
+- [GitHub Endorsed Beginning Contributer Repos](https://github.com/showcases/great-for-new-contributors)
+- [Sourcetree - Git GUI for macOS and Windows](https://www.sourcetreeapp.com/)
+- [VS Code - extensible code editor](https://code.visualstudio.com/)
+- [GitHub Atom - Hackable Text Editor for the 21st Century](https://atom.io/)
+
+
+
+# 🌟🌟 HAPPY HACKING 🌟🌟
