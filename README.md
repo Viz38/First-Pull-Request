@@ -4,13 +4,26 @@
 [![GPL Licence](https://badges.frapsoft.com/os/gpl/gpl.png?v=103)](https://opensource.org/licenses/GPL-3.0/)
 [![first-timers-only](https://img.shields.io/badge/first--timers--only-friendly-blue.svg?style=flat-square)](http://bit.ly/First-Pull-Request) 
 
+<br/>
+
+
+<br/>
+
 ## Why contribute to free/open source?
 When you contribute to Open Source, you are taking part in the collaborative effort of a vast community of passionate developers and contributors! Free Source software allows you to see, use, and more importantly modify its source code. Contributing to Free Source is a great way to develop a deeper understanding of software, and the best part is being able to learn and teach alongside a community of contributors.
+
+<br/>
+
+
+<br/>
 
 ## How to contribute
 Follow this step-by-step guide to make your first open source contribution. The steps you will perform in this guide is a somewhat standard workflow that you will encounter in most projects: Fork -> Clone -> Install dependencies -> Make your changes -> Run tests -> Commit -> PR
 
+<br/>
 
+
+<br/>
 
 # This project is to help you make a pull request (PR) in 10 easy steps
 
@@ -34,7 +47,6 @@ This will create a copy of this repository in your account.
 ![fork](https://raw.githubusercontent.com/Viz38/First-Pull-Request/master/Assets/Fork.bmp)
 
 ### Step 2
-
 
 Now clone the forked repo to your machine. Go to your GitHub account, open the forked repo, click on the clone button and then click the *copy to clipboard* icon.
 ![clone](https://raw.githubusercontent.com/Viz38/First-Pull-Request/master/Assets/Clone.bmp)
@@ -112,8 +124,10 @@ Soon I'll be merging all your changes into the master branch of this project. Yo
 
 ### Congrats you just created a PR 🎉🎉🎉
 
+<br/>
 
 
+<br/>
 
 # What's next?
 
@@ -123,9 +137,10 @@ You just took your first step as an open source contributor. Your pull request w
 
 If you want something more to work on, look at the [Further Reading](#Further-Reading) section for more great learning resources.
 
+<br/>
 
 
-
+<br/>
 
 # FAQ
 
@@ -148,9 +163,11 @@ git commit -m "Your message"
 git push origin <your-new-branch-name>
 ```
 
+<br/>
 
 
 
+<br/>
 
 # Further Reading
 
@@ -172,6 +189,9 @@ git push origin <your-new-branch-name>
 ### CHEAT SHEET
 - Here is a Cheat Sheet from GGithub for further reading 👉[Cheat Sheet](Assets/github-git-cheat-sheet.pdf)👈
 
+<br/>
 
+
+<br/>
 
 # 🌟🌟 HAPPY HACKING 🌟🌟
