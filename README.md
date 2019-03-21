@@ -110,7 +110,7 @@ Soon I'll be merging all your changes into the master branch of this project. Yo
 
 ## GLUG PACE [Click Here](https://github.com/glugpace) for more projects. 🌟🌟 
 
-## Congrats you just created a PR 🎉🎉🎉
+### Congrats you just created a PR 🎉🎉🎉
 
 
 
@@ -169,7 +169,7 @@ git push origin <your-new-branch-name>
 - [GitHub Atom - Hackable Text Editor for the 21st Century](https://atom.io/)
 
 
-## CHEAT SHEET
+### CHEAT SHEET
 - Here is a Cheat Sheet from GGithub for further reading 👉[Cheat Sheet](Assets/github-git-cheat-sheet.pdf)👈
 
 
