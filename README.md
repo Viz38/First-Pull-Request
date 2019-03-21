@@ -169,5 +169,9 @@ git push origin <your-new-branch-name>
 - [GitHub Atom - Hackable Text Editor for the 21st Century](https://atom.io/)
 
 
+## CHEAT SHEET
+- [Cheat Sheet](Assets/github-git-cheat-sheet.pdf)
+
+
 
 # 🌟🌟 HAPPY HACKING 🌟🌟
