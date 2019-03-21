@@ -12,7 +12,7 @@ Follow this step-by-step guide to make your first open source contribution. The 
 
 
 
-## This project is to help you make a pull request (PR) in 10 easy steps
+# This project is to help you make a pull request (PR) in 10 easy steps
 
 ## Instructions-
 
@@ -115,7 +115,7 @@ Soon I'll be merging all your changes into the master branch of this project. Yo
 
 
 
-## What's next?
+# What's next?
 
 🎉 Congratulations 🎉
 
@@ -127,7 +127,7 @@ If you want something more to work on, look at the [Further Reading](#Further-Re
 
 
 
-## FAQ
+# FAQ
 
 ### Resolve Merge Conflicts ###
 
@@ -152,7 +152,7 @@ git push origin <your-new-branch-name>
 
 
 
-## Further Reading
+# Further Reading
 
 - [GitHub Open Source Guide](https://opensource.guide/)
 - [Resource To learn Git](https://try.github.io/)
