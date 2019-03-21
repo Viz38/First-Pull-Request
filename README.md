@@ -170,7 +170,7 @@ git push origin <your-new-branch-name>
 
 
 ## CHEAT SHEET
-- [Cheat Sheet](Assets/github-git-cheat-sheet.pdf)
+- Here is a Cheat Sheet from GGithub for further reading 👉[Cheat Sheet]👈(Assets/github-git-cheat-sheet.pdf)
 
 
 
