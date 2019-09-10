@@ -56,7 +56,7 @@ Now clone the forked repo to your machine. Go to your GitHub account, open the f
 Open a terminal/git bash and run the following git command:
 
 ```
-git clone "https://github.com/Viz38/First-Pull-Request.git"
+git clone "<paste the link here>"
 ```
 
 ### Step 4
@@ -67,9 +67,10 @@ Change to the repository directory on your computer (if you are not already ther
 cd First-Pull-Request
 ```
 Now create a branch using the `git branch` command and change to new branch using `git checkout` command:
+(Replace 'branch-name' with any name of your choice)
 ```
-git branch branch-name 
-git checkout branch-name
+git branch <branch-name> 
+git checkout <branch-name>
 ```
 
 For example:
@@ -97,7 +98,7 @@ git add Members.md
 ### Step 7
 Now commit those changes using the `git commit` command:
 ```
-git commit -m "your commit message"
+git commit -m "give your commit message here"
 ```
 
 ### Step 8
@@ -110,7 +111,7 @@ replacing `<add-your-branch-name>` with the name of the branch you created earli
 
 ### Step 9
 
-If you go to your repository on GitHub, you'll see a  `Compare & pull request` button. Click on that button.
+If you go to <a href="https://github.com/Viz38/First-Pull-Request" target="_blank">THIS</a> repository on GitHub, you'll see a  `Compare & pull request` button. Click on that button.
 ![C&P](https://raw.githubusercontent.com/Viz38/First-Pull-Request/master/Assets/Pull.bmp)
 
 ### Step 10
@@ -187,7 +188,7 @@ git push origin <your-new-branch-name>
 
 
 ### CHEAT SHEET
-- Here is a Cheat Sheet from GGithub for further reading 👉[Cheat Sheet](Assets/github-git-cheat-sheet.pdf)👈
+- Here is a Cheat Sheet from Github for further reading 👉[Cheat Sheet](Assets/github-git-cheat-sheet.pdf)👈
 
 <br/>
 
