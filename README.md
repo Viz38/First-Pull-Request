@@ -4,15 +4,28 @@
 [![GPL Licence](https://badges.frapsoft.com/os/gpl/gpl.png?v=103)](https://opensource.org/licenses/GPL-3.0/)
 [![first-timers-only](https://img.shields.io/badge/first--timers--only-friendly-blue.svg?style=flat-square)](http://bit.ly/First-Pull-Request) 
 
+<br/>
+
+
+<br/>
+
 ## Why contribute to free/open source?
 When you contribute to Open Source, you are taking part in the collaborative effort of a vast community of passionate developers and contributors! Free Source software allows you to see, use, and more importantly modify its source code. Contributing to Free Source is a great way to develop a deeper understanding of software, and the best part is being able to learn and teach alongside a community of contributors.
+
+<br/>
+
+
+<br/>
 
 ## How to contribute
 Follow this step-by-step guide to make your first open source contribution. The steps you will perform in this guide is a somewhat standard workflow that you will encounter in most projects: Fork -> Clone -> Install dependencies -> Make your changes -> Run tests -> Commit -> PR
 
+<br/>
 
 
-## This project is to help you make a pull request (PR) in 10 easy steps
+<br/>
+
+# This project is to help you make a pull request (PR) in 10 easy steps
 
 ## Instructions-
 
@@ -35,7 +48,6 @@ This will create a copy of this repository in your account.
 
 ### Step 2
 
-
 Now clone the forked repo to your machine. Go to your GitHub account, open the forked repo, click on the clone button and then click the *copy to clipboard* icon.
 ![clone](https://raw.githubusercontent.com/Viz38/First-Pull-Request/master/Assets/Clone.bmp)
 
@@ -44,7 +56,7 @@ Now clone the forked repo to your machine. Go to your GitHub account, open the f
 Open a terminal/git bash and run the following git command:
 
 ```
-git clone "https://github.com/Viz38/First-Pull-Request.git"
+git clone "<paste the link here>"
 ```
 
 ### Step 4
@@ -55,9 +67,10 @@ Change to the repository directory on your computer (if you are not already ther
 cd First-Pull-Request
 ```
 Now create a branch using the `git branch` command and change to new branch using `git checkout` command:
+(Replace 'branch-name' with any name of your choice)
 ```
-git branch branch-name 
-git checkout branch-name
+git branch <branch-name> 
+git checkout <branch-name>
 ```
 
 For example:
@@ -85,7 +98,7 @@ git add Members.md
 ### Step 7
 Now commit those changes using the `git commit` command:
 ```
-git commit -m "your commit message"
+git commit -m "give your commit message here"
 ```
 
 ### Step 8
@@ -98,7 +111,7 @@ replacing `<add-your-branch-name>` with the name of the branch you created earli
 
 ### Step 9
 
-If you go to your repository on GitHub, you'll see a  `Compare & pull request` button. Click on that button.
+If you go to <a href="https://github.com/Viz38/First-Pull-Request" target="_blank">THIS</a> repository on GitHub, you'll see a  `Compare & pull request` button. Click on that button.
 ![C&P](https://raw.githubusercontent.com/Viz38/First-Pull-Request/master/Assets/Pull.bmp)
 
 ### Step 10
@@ -110,12 +123,14 @@ Soon I'll be merging all your changes into the master branch of this project. Yo
 
 ## GLUG PACE [Click Here](https://github.com/glugpace) for more projects. 🌟🌟 
 
-## Congrats you just created a PR 🎉🎉🎉
+### Congrats you just created a PR 🎉🎉🎉
+
+<br/>
 
 
+<br/>
 
-
-## What's next?
+# What's next?
 
 🎉 Congratulations 🎉
 
@@ -123,11 +138,12 @@ You just took your first step as an open source contributor. Your pull request w
 
 If you want something more to work on, look at the [Further Reading](#Further-Reading) section for more great learning resources.
 
+<br/>
 
 
+<br/>
 
-
-## FAQ
+# FAQ
 
 ### Resolve Merge Conflicts ###
 
@@ -148,11 +164,13 @@ git commit -m "Your message"
 git push origin <your-new-branch-name>
 ```
 
+<br/>
 
 
 
+<br/>
 
-## Further Reading
+# Further Reading
 
 - [GitHub Open Source Guide](https://opensource.guide/)
 - [Resource To learn Git](https://try.github.io/)
@@ -169,5 +187,12 @@ git push origin <your-new-branch-name>
 - [GitHub Atom - Hackable Text Editor for the 21st Century](https://atom.io/)
 
 
+### CHEAT SHEET
+- Here is a Cheat Sheet from Github for further reading 👉[Cheat Sheet](Assets/github-git-cheat-sheet.pdf)👈
+
+<br/>
+
+
+<br/>
 
 # 🌟🌟 HAPPY HACKING 🌟🌟
