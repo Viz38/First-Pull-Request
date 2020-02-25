@@ -11,6 +11,10 @@ Name:moi adil
 GitHub ID:igneel918
 
 =======
+Name: Salman Farisi
+GitHub ID: iamsalmanfarisi
+
+=======
 Name: Muhammed sabith ok
 GitHub ID: sabithok
 
@@ -37,5 +41,3 @@ GitHub ID:Aizen2499
 =======
 Name: Whysogreen
 GitHub ID: whysogree__n
-
-
