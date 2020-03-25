@@ -8,6 +8,10 @@ GitHub ID : Viz32
 Start here 👇👇👇👇
 
 =======
+Name: Salman Farisi
+GitHub ID: iamsalmanfarisi
+
+=======
 Name: Muhammed sabith ok
 GitHub ID: sabithok
 
@@ -38,3 +42,6 @@ GitHub ID: whysogreen
 =======
 Name: Shanen
 Github ID: schotkey
+
+=======
+
